@@ -1,10 +1,10 @@
 # Site settings
-title: "Hi! I'm Uma Sivakumar"
+title: "Uma Sivakumar"
 email: uma.sivakumar@yale.edu
 url: https://umasivakumar14.github.io/
 description: "Hi! I'm Uma Sivakumar, a CS major at Yale University. I am interested in creative use cases for Agentic AI, ML optimization, and game development. This is my personal website where I showcase my projects and skills."
 keywords: "software engineer, web developer, software engineer intern, ML Intern, machine learning, game development, agentic AI, Yale University, CS major, computer science, web development, software development, programming, coding, projects, portfolio"
-skills: "Computer Science Student - Machine Learning Research - Game Developer"
+skills: "Hi! I'm a CS major at Yale University. I am interested in creative use cases for Agentic AI, ML optimization, and game development."
 meta_author: Sivakumar Uma
 
 # Google webmaster tools
@@ -31,11 +31,11 @@ color:
   secondary-dark: 233140 #A2122F
 
 # Footer settings
-footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+# footer:
+#   copyright: Dr. Henry Jekyll
+#   location: Location
+#   social: Around the Web
+#   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,12 +51,12 @@ social:
   #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 
 
 # Build settings
 markdown: kramdown
