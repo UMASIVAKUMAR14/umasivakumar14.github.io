@@ -1,11 +1,11 @@
 # Site settings
 title: "Hi! I'm Uma Sivakumar"
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+email: uma.sivakumar@yale.edu
+url: https://umasivakumar14.github.io/
+description: "Hi! I'm Uma Sivakumar, a CS major at Yale University. I am interested in creative use cases for Agentic AI, ML optimization, and game development. This is my personal website where I showcase my projects and skills."
+keywords: "software engineer, web developer, software engineer intern, ML Intern, machine learning, game development, agentic AI, Yale University, CS major, computer science, web development, software development, programming, coding, projects, portfolio"
+skills: "Computer Science Student - Machine Learning Research - Game Developer"
+meta_author: Sivakumar Uma
 
 # Google webmaster tools
 google_verify:
@@ -39,16 +39,16 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/uma-sivakumar-756793216/
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/UMASIVAKUMAR14
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
