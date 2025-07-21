@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2025-06-11
+date: 2025-06-19
 img: realestate.png
 alt: image-alt
 project-date: June 2024
