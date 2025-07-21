@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2025-06-11
+img: realestate.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: June 2024
+# client: Start Bootstrap
+# category: Web Development
+description: I created a website that predicts the price of homes in Bangalore. I used Pandas and Scikit-learn to clean a dataset and develop a ML model that predicted home prices based on 6 variables. I then trained the model on a Kaggle dataset to 85% accuracy, built a Python Flask server to respond to HTTP requests, and designed & developed a UI that took user inputs for the model with HTML, CSS, and JavaScript. To make the site accessible anywhere, I configured an Nginx Web Server to handle HTTP requests and serve the website on an AWS EC2 instance.
 ---

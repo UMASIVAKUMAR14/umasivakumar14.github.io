@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2025-06-14
+img: adversarial.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: May 2025
+# client: Start Bootstrap
+# category: Web Development
+description: Worked in a team of 3 to investigate whether input gradient regularization and ensemble diversity training improve model robustness against adversarial attacks. We created our own adversarial dataset of the MNIST dataset using the Fast Gradient Sign Method. We then evaluated four model types in twin single and twin configurations. Surprisingly, neither regularization nor diversity training improved performance on adversarial data. This result is possibly due to the dataset's low complexity.  
 ---
