@@ -7,5 +7,5 @@ alt: image-alt
 project-date: June 2024
 # client: Start Bootstrap
 # category: Web Development
-description: I created a website that predicts the price of homes in Bangalore. I used Pandas and Scikit-learn to clean a dataset and develop a ML model that predicted home prices based on 6 variables. I then trained the model on a Kaggle dataset to 85% accuracy, built a Python Flask server to respond to HTTP requests, and designed & developed a UI that took user inputs for the model with HTML, CSS, and JavaScript. To make the site accessible anywhere, I configured an Nginx Web Server to handle HTTP requests and serve the website on an AWS EC2 instance.
+description: I created a website that predicts the price of homes in Bangalore. I used Pandas and Scikit-learn to clean a dataset and develop a ML model that predicted home prices based on 6 variables. I then trained the model on a Kaggle dataset to 85% accuracy, built a Python Flask server to respond to HTTP requests, and designed & developed a UI that took user inputs for the model with HTML, CSS, and JavaScript. To make the site accessible anywhere, I configured an Nginx Web Server to handle HTTP requests and serve the website on an AWS EC2 instance. Try it at http://ec2-3-19-57-187.us-east-2.compute.amazonaws.com/ 
 ---

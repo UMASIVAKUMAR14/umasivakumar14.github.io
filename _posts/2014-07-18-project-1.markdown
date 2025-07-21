@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2025
 # client: Start Bootstrap
 # category: Web Development
-description: I worked in a team of 4 to build a game engine in D with a resource manager, audio manager, scene loader, and components for animation, text, physics, scripts, and sprites. We built a maze-chase game using the engine that contains a GUI tile map editor written in Python. The editor allows users to draw and save custom 2D scenes. We also created a website to showcase the engine, game, tile editor, and documentation.
+description: I worked in a team of 4 to build a game engine in D with a resource manager, audio manager, scene loader, and components for animation, text, physics, scripts, and sprites. We built a maze-chase game using the engine that contains a GUI tile map editor written in Python. The editor allows users to draw and save custom 2D scenes. We also created a website to showcase the engine, game, tile editor, and documentation. Website at https://sophomore-studios.onrender.com/
 ---
