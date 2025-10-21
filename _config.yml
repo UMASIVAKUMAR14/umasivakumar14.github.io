@@ -41,10 +41,10 @@ color:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/uma-sivakumar-756793216/
-  - title: github
-    url: https://github.com/UMASIVAKUMAR14
   - title: email
     url: mailto:umasivakumar@yale.edu
+  - title: github
+    url: https://github.com/UMASIVAKUMAR14
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket
