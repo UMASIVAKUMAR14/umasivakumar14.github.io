@@ -7,5 +7,6 @@ alt: image-alt
 project-date: March 2023
 # client: Start Bootstrap
 # category: Web Development
+title: Asteroids [Unity]
 description: I made an asteroids game using Unity and C#. Play the game using the arrow keys to move and the space bar to shoot. You have 3 lives to accumulate as many points as you can. The game implements player movement, random spawners, and projectile physics.
 ---

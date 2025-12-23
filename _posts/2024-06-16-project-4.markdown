@@ -7,5 +7,6 @@ alt: image-alt
 project-date: April 2024
 # client: Start Bootstrap
 # category: Web Development
+title: Platformer [Unity]
 description: While working with Yale's game development studio, Amoriem Labs, I worked to build a game called Diploma Dash. Diploma Dash is a Yale themed 2D side Scrolling platformer. On the programming team, I worked on the shop system, the place where you could exchange the coins collected during the game for power ups and additional sprites. I also worked on the particle system to create better effects throughout gameplay.
 ---

@@ -7,5 +7,6 @@ alt: image-alt
 project-date: November 2025
 # client: Start Bootstrap
 # category: Web Development
+title: Find Your Style [Image Classification]
 description: Find Your Style is a series of image classification models that classifies images of clothing first by type (top, skirt, dress, etc.) and then by different style attributes like fabric (cotton, denim, etc.), pattern (solid, striped, etc.), and shape. The type classification achieved an accuracy of over 95% and the style attributes classification all achieved accuracies of over 80%.
 ---

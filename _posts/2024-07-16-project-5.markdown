@@ -7,5 +7,6 @@ alt: image-alt
 project-date: July 2024
 # client: Start Bootstrap
 # category: Web Development
+title: Facial Recognition
 description: I created a website that identifies F1 drivers given an image of their face. It was created using opencv's Haar Cascade to identify the face & Haar Wavelet Transformation to extract important facial features. The machine learning model was trained on a custom dataset scraped from google images to over 75% accuracy. Tools I used include Scikit-learn, NumPy, & Seaborn. I also built a corresponding Python Flask server and designed a UI for the website in HTML, CSS, and JavaScript.
 ---
