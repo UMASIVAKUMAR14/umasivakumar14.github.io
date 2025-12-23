@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 10
+date: 2025-12-20
+img: campusplanner.png
+alt: image-alt
+project-date: December 2025
+# client: Start Bootstrap
+# category: Web Development
+description: The Yale Campus Navigation Planner uses RRT-Connect to find a path between 2 points (denoted by [x, y] coordinates on a given gridded map) on Yale University's campus. The program creates an image that highlights the final path and also creates a GIF where you can see the algorithm exploring the space step by step.
+---

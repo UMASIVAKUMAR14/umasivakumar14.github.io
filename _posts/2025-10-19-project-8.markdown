@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 8
+date: 2025-10-20
+img: questify.png
+alt: image-alt
+project-date: October 2025
+# client: Start Bootstrap
+# category: Web Development
+description: I worked with a team of 7 to develop Questify, a gamified self-improvement tracker. Features include email/password auth, AI-assisted skill tree generation, quest visualizations, calendar and timeline widgets, friend leaderboards, and notifications. The application is built with Next.js, Typescript, React, Tailwind, and Supabase. The LLM integration features are built in Python and use the Gemini API. Try the site at https://f25-questify-production.up.railway.app/
+---
