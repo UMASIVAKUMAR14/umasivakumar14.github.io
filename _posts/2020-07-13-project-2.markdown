@@ -7,5 +7,6 @@ alt: image-alt
 project-date: April 2023
 # client: Start Bootstrap
 # category: Web Development
+title: Sorry Game [Java]
 description: I made a digital version of the classic game Sorry. The game was built using java and java graphics. The goal is for the 4 players to move their pieces from their start position to their home position. The number of places moved is decided by the card drawn which is implemented in a separate window in this digital version of the game. 
 ---
