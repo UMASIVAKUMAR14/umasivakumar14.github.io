@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 12
+date: 2026-05-21
+img: coralreef.png
+alt: image-alt
+project-date: May 2026
+# client: Start Bootstrap
+# category: Web Development
+title: Coral Reef Simulation in C++, D, OpenGL
+description: Used 3 computer graphics techniques to create a coral reef simulation (1) Used perlin noise to procedurally generate terrain with a sand texture (2) Procedurally generated branch coral and plate coral using surface normals (3) Created caustics effect by interpolating different caustics maps. See more in this video- https://www.youtube.com/watch?v=hE-hilaBUac
+---

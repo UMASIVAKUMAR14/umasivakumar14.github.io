@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 11
+date: 2026-05-20
+img: flyingbird.png
+alt: image-alt
+project-date: May 2026
+# client: Start Bootstrap
+# category: Web Development
+title: Flying Bird Simulation with Blender and THREE.js
+description: This visual of a bird flapping and flying through the sky was created with 2 key goals:(1) Interpolate a flight path between 4 control points in 3 dimensional space using a spline. (2) Use forward kinematics to calculate the position of the bird and the position of the flapping wings. See the repository at https://github.com/UMASIVAKUMAR14/BirdFlightSimulation
+---
